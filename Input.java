@@ -2,9 +2,13 @@ import java.util.Scanner;
 
 public class Input {
     public static void main(String args[]){
-        Scanner input = new Scanner(System.in);
-        System.out.println(input.next());// for the first word 
-        System.out.println(input.nextLine());// for the whole line
+        // System.out.println("Enter your rollnumber: ");
+         Scanner input = new Scanner(System.in);
+        // int rollnumber = input.nextInt();
+        // System.out.println("Your rollnumner is: "+rollnumber);
+        System.out.println("Enter your name: ");
+        String name = input.nextLine();
+        System.out.println("Name Recieved In System: "+name);
     }
     
 }
