@@ -7,21 +7,11 @@ public class Switch {
        String fruit = in.next();
 
        switch(fruit){
-        case "mango":
-            System.out.println("King of fruits");
-            break;
-
-        case "Apple":
-            System.out.println("A sweet red fruit");
-            break;
-
-        case "orange":
-            System.out.println("a orange fruit");
-            break;
-        
-        default: 
-        System.out.println("Enter a valid fruit: ");
-
+        case "mango" -> System.out.println("King of fruits");
+        case "Apple" -> System.out.println("Red colour");
+        case "Orange" -> System.out.println("Orange colour");
+        case "Grape" -> System.out.println("Green colour");
+        default  -> System.out.println("Invalid Fruit , Enter fruit");
        }
     }
     
