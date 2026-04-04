@@ -54,15 +54,13 @@ I am practicing coding daily to build strong fundamentals, improve problem-solvi
 
 ---
 
-## 📈 Progress Tracker
+## 📈 Progress
 
-| Topic           | Status         |
-| --------------- | -------------- |
-| Basics          | ✅ Done         |
-| Conditionals    | ✅ Done         |
-| Loops           | ✅ Done         |
-| Arrays          | 🔄 In Progress |
-| Problem Solving | 🔄 Ongoing     |
+- Basics            ██████████ 100%
+- Conditionals      ██████████ 100%
+- Loops             ██████████ 100%
+- Arrays            ███████░░░ 70%
+- Problem Solving   ██████░░░░ 60%
 
 ---
 
