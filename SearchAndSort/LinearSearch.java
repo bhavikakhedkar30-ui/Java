@@ -4,7 +4,9 @@ import java.util.Scanner;
 public class LinearSearch{
 
              public static void main(String[] args) {
+
              int arr[] = {18,12,9,14,77,50};
+             System.out.println(arr);
              Scanner in = new Scanner(System.in);
              int key = in.nextInt();
 
