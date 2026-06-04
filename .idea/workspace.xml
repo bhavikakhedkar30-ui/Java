@@ -5,97 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b7bf91d-cc3a-4219-9dbe-3fafa86f18d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desktop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Array_ArrayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/BoundaryInner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/ChangeValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/ChangeValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/ColNotFixed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/ColNotFixed.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Conditionals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Functions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Functions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/HelloWrold.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Input.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/InputinArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/InputinArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Max.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Max.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/MaxValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/MultiDimentionalArr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/MultiDimentionalArr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Overloading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Overloading.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/ParametersandArguments.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/ParametersandArguments.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/PassinginFunctions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/PassinginFunctions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Primitives.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Que.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Reverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Reverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Reverse2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Reverse2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Reverse2D.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Scope.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/SearchinString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/SearchinString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Shadowing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Shadowing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Squencial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Squencial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Sum2Darr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Sum2Darr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Sumarr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Sumarr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Swap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Swap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Swap2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Swap2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Switch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Switch2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Switch2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Traverse2D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Traverse2D.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/TypeCasting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/UpLowcase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/VarArgs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/VarArgs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/WavePrint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/febonnaci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/febonnaci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/ifelse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/nestedswitch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/nestedswitch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/occurences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/occurences.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchAndSort/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchAndSort/BinarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchAndSort/BinarySearchQue1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchAndSort/BinarySearchQue1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchAndSort/LinearSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchAndSort/LinearSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchAndSort/LinearSearchinRange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchAndSort/LinearSearchinRange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchAndSort/Maxnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchAndSort/Maxnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchAndSort/Minnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchAndSort/Minnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchAndSort/SearchIn2D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchAndSort/SearchIn2D.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchAndSort/StringSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchAndSort/StringSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pattern_Printing/Triangle2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_Printing/Triangle2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pattern_Printing/firstPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_Printing/firstPattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,44 +40,52 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="3EMHPV9XMUKHNr2eaDDZ7uOAFzy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ABCDpattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AbsoluteValue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AreaOfCircle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArithmeticOperationOnInt.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DivisibilityBy5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloBhavika.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OddEven.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Printingnumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProfitLoss.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RealNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RelationalOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sevethparttern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SixthPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SmallAlphabet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TSAOfCuboid.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Thirdparttern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Triangle1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Triangle2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VariablesBasics.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VolumeOfSphere.executor&quot;: &quot;Run&quot;,
-    &quot;Application.firstPattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.fourdigitNumber.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/hp/Desktop/Java/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ABCDpattern.executor": "Run",
+    "Application.AbsoluteValue.executor": "Run",
+    "Application.AreaOfCircle.executor": "Run",
+    "Application.ArithmeticOperationOnInt.executor": "Run",
+    "Application.DivisibilityBy5.executor": "Run",
+    "Application.HelloBhavika.executor": "Run",
+    "Application.HollowRectangle.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.OddEven.executor": "Run",
+    "Application.Printingnumbers.executor": "Run",
+    "Application.ProfitLoss.executor": "Run",
+    "Application.RealNumber.executor": "Run",
+    "Application.RelationalOperator.executor": "Run",
+    "Application.Sevethparttern.executor": "Run",
+    "Application.SixthPattern.executor": "Run",
+    "Application.SmallAlphabet.executor": "Run",
+    "Application.SquarePattern.executor": "Run",
+    "Application.TSAOfCuboid.executor": "Run",
+    "Application.Thirdparttern.executor": "Run",
+    "Application.Triangle1.executor": "Run",
+    "Application.Triangle2.executor": "Run",
+    "Application.Triangle3.executor": "Run",
+    "Application.Triangle4.executor": "Run",
+    "Application.VariablesBasics.executor": "Run",
+    "Application.VolumeOfSphere.executor": "Run",
+    "Application.firstPattern.executor": "Run",
+    "Application.fourdigitNumber.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/hp/Desktop/Java/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="HelloBhavika" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basics.HelloBhavika" />

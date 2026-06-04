@@ -12,7 +12,7 @@ public class firstPattern {
 
 
         for ( int i = 1; i <= r; i++) {
-            for ( int j  = c; j <= c ; j++) {
+            for ( int j  = 1; j <= c ; j++) {
                 System.out.print("*");
             }
             System.out.println();
