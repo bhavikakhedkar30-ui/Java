@@ -19,6 +19,7 @@ public class PatternX {
             }
             System.out.println();
 
+
         }
     }
 }
