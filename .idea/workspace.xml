@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6b7bf91d-cc3a-4219-9dbe-3fafa86f18d1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/BasicsOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/BasicsOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/OutputInputArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/OutputInputArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +63,7 @@
     "Application.HelloBhavika.executor": "Run",
     "Application.HollowRectangle.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MaxElement.executor": "Run",
     "Application.MaxOfThreeBuiltin.executor": "Run",
     "Application.MaxOffourbuiltIn.executor": "Run",
     "Application.NumberTriangle.executor": "Run",
@@ -74,7 +73,9 @@
     "Application.OutputInputArray.executor": "Run",
     "Application.PatternX.executor": "Run",
     "Application.PermutationAndCombination.executor": "Run",
+    "Application.PrintNegativeNumberOnly.executor": "Run",
     "Application.Printingnumbers.executor": "Run",
+    "Application.ProductOfArray.executor": "Run",
     "Application.ProfitLoss.executor": "Run",
     "Application.RealNumber.executor": "Run",
     "Application.RelationalOperator.executor": "Run",
@@ -86,6 +87,7 @@
     "Application.SmallAlphabet.executor": "Run",
     "Application.SquarePattern.executor": "Run",
     "Application.StarPlus.executor": "Run",
+    "Application.SumOfArray.executor": "Run",
     "Application.Swap.executor": "Run",
     "Application.Syntax.executor": "Run",
     "Application.TSAOfCuboid.executor": "Run",
@@ -97,6 +99,7 @@
     "Application.Triangle5.executor": "Run",
     "Application.VariablesBasics.executor": "Run",
     "Application.VolumeOfSphere.executor": "Run",
+    "Application.doubleofElement.executor": "Run",
     "Application.firstPattern.executor": "Run",
     "Application.fourdigitNumber.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
