@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b7bf91d-cc3a-4219-9dbe-3fafa86f18d1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/fileColors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fileColors.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Methods/Syntax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods/Syntax.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,9 @@
     "Application.AbsoluteValue.executor": "Run",
     "Application.AlphaTriangle.executor": "Run",
     "Application.AreaOfCircle.executor": "Run",
+    "Application.Arguments.executor": "Run",
     "Application.ArithmeticOperationOnInt.executor": "Run",
+    "Application.BasicsOfArray.executor": "Run",
     "Application.BinaryTriangle.executor": "Run",
     "Application.BuiltIn.executor": "Run",
     "Application.DivisibilityBy5.executor": "Run",
@@ -69,10 +71,12 @@
     "Application.OddEven.executor": "Run",
     "Application.OddTriangle.executor": "Run",
     "Application.PatternX.executor": "Run",
+    "Application.PermutationAndCombination.executor": "Run",
     "Application.Printingnumbers.executor": "Run",
     "Application.ProfitLoss.executor": "Run",
     "Application.RealNumber.executor": "Run",
     "Application.RelationalOperator.executor": "Run",
+    "Application.ReturnType.executor": "Run",
     "Application.Rhombus.executor": "Run",
     "Application.RightIsotriangle.executor": "Run",
     "Application.Sevethparttern.executor": "Run",
@@ -80,6 +84,7 @@
     "Application.SmallAlphabet.executor": "Run",
     "Application.SquarePattern.executor": "Run",
     "Application.StarPlus.executor": "Run",
+    "Application.Swap.executor": "Run",
     "Application.Syntax.executor": "Run",
     "Application.TSAOfCuboid.executor": "Run",
     "Application.Thirdparttern.executor": "Run",
@@ -99,7 +104,10 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/hp/Desktop/Java/src/Main.java",
-    "settings.editor.selected.configurable": "settings.qodana"
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">
