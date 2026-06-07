@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b7bf91d-cc3a-4219-9dbe-3fafa86f18d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/fileColors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fileColors.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/BasicsOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/BasicsOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/OutputInputArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/OutputInputArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +71,7 @@
     "Application.NumberTriangle2.executor": "Run",
     "Application.OddEven.executor": "Run",
     "Application.OddTriangle.executor": "Run",
+    "Application.OutputInputArray.executor": "Run",
     "Application.PatternX.executor": "Run",
     "Application.PermutationAndCombination.executor": "Run",
     "Application.Printingnumbers.executor": "Run",
