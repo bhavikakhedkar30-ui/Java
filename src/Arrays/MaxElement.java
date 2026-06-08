@@ -8,8 +8,6 @@ public class MaxElement {
              if (arr[i] > max) {
                  max = arr[i];
              }
-
-
          }
         System.out.println(max);
     }
