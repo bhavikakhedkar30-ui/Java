@@ -1,5 +1,7 @@
+package Arrays;
+
 import java.util.Scanner;
-import java.util.Arrays;
+
 public class RotateArray {
     static void main(String[] args) {
         int[] arr = {1,2,3,4,5};
