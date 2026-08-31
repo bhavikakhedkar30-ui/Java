@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6b7bf91d-cc3a-4219-9dbe-3fafa86f18d1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/RotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortArrayBuiltIn.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +71,7 @@
     "Application.MaxOfThreeBuiltin.executor": "Run",
     "Application.MaxOffourbuiltIn.executor": "Run",
     "Application.Minelement.executor": "Run",
+    "Application.MissingInArray.executor": "Run",
     "Application.NumberTriangle.executor": "Run",
     "Application.NumberTriangle2.executor": "Run",
     "Application.OddEven.executor": "Run",
@@ -95,6 +96,7 @@
     "Application.SixthPattern.executor": "Run",
     "Application.SmallAlphabet.executor": "Run",
     "Application.SortArrayBuiltIn.executor": "Run",
+    "Application.Sortzeroandone.executor": "Run",
     "Application.SquarePattern.executor": "Run",
     "Application.StarPlus.executor": "Run",
     "Application.SumOfArray.executor": "Run",
