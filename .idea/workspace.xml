@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6b7bf91d-cc3a-4219-9dbe-3fafa86f18d1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortArrayBuiltIn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Sortzeroandone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Sortzeroandone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +112,7 @@
     "Application.TwoSum.executor": "Run",
     "Application.VariablesBasics.executor": "Run",
     "Application.VolumeOfSphere.executor": "Run",
+    "Application.WaveArray.executor": "Run",
     "Application.demo.executor": "Run",
     "Application.doubleofElement.executor": "Run",
     "Application.firstPattern.executor": "Run",
