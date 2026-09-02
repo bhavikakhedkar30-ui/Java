@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6b7bf91d-cc3a-4219-9dbe-3fafa86f18d1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/ArrayListStructure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/ArrayListStructure.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,7 @@
   "keyToString": {
     "Application.ABCDpattern.executor": "Run",
     "Application.AbsoluteValue.executor": "Run",
+    "Application.AddingOneArrayList.executor": "Run",
     "Application.AlphaTriangle.executor": "Run",
     "Application.AreaOfCircle.executor": "Run",
     "Application.Arguments.executor": "Run",
@@ -71,6 +71,7 @@
     "Application.MaxElement.executor": "Run",
     "Application.MaxOfThreeBuiltin.executor": "Run",
     "Application.MaxOffourbuiltIn.executor": "Run",
+    "Application.Merge2SorttedArray.executor": "Run",
     "Application.Minelement.executor": "Run",
     "Application.MissingInArray.executor": "Run",
     "Application.NumberTriangle.executor": "Run",
