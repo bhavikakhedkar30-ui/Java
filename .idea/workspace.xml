@@ -63,6 +63,7 @@
     "Application.BinaryTriangle.executor": "Run",
     "Application.BuiltIn.executor": "Run",
     "Application.DivisibilityBy5.executor": "Run",
+    "Application.DuplicateNumber.executor": "Run",
     "Application.ForEachloop.executor": "Run",
     "Application.HelloBhavika.executor": "Run",
     "Application.HollowRectangle.executor": "Run",
