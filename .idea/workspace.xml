@@ -78,6 +78,7 @@
     "Application.Merge2SorttedArray.executor": "Run",
     "Application.Minelement.executor": "Run",
     "Application.MissingInArray.executor": "Run",
+    "Application.MoveZerolast.executor": "Run",
     "Application.NumberTriangle.executor": "Run",
     "Application.NumberTriangle2.executor": "Run",
     "Application.OddEven.executor": "Run",
