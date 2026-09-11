@@ -2,7 +2,7 @@ package Sortting;
 
 public class MoveZerolast {
     static void main(String[] args) {
-        int[] arr = {0, -2, 6, 5, 2, 0, 7, 2};
+        int[] arr = {3, 5, 0, 0, 4};
         int n = arr.length;
         for (int j = 0; j < n-1; j++) {
             for (int i = 0; i < n - 1-j; i++) {
@@ -12,9 +12,10 @@ public class MoveZerolast {
                     arr[i + 1] = temp;
                 }
             }
-            for (int i = 0; i < n; i++) {
-                System.out.println(arr[i] + " ");
-            }
+
+        }
+        for (int i = 0; i < n; i++) {
+            System.out.println(arr[i] + " ");
         }
     }
 }
