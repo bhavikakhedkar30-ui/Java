@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6b7bf91d-cc3a-4219-9dbe-3fafa86f18d1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sortting/MoveZerolast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sortting/MoveZerolast.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +99,7 @@
     "Application.RightIsotriangle.executor": "Run",
     "Application.RotateArray.executor": "Run",
     "Application.SecoundMax.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
     "Application.Sevethparttern.executor": "Run",
     "Application.SixthPattern.executor": "Run",
     "Application.SmallAlphabet.executor": "Run",
