@@ -119,6 +119,7 @@
     "Application.Triangle4.executor": "Run",
     "Application.Triangle5.executor": "Run",
     "Application.TwoSum.executor": "Run",
+    "Application.Union.executor": "Run",
     "Application.VariablesBasics.executor": "Run",
     "Application.VolumeOfSphere.executor": "Run",
     "Application.WaveArray.executor": "Run",
