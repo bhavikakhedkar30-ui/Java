@@ -1,0 +1,235 @@
+# BINARY SEARCH — THEORY
+
+## 1. What is Binary Search?
+
+Binary Search is a searching algorithm used to find an element in a sorted array.
+
+It works by repeatedly dividing the search space into two halves until the target element is found or the search space becomes empty.
+
+Example:
+
+Array: `{10, 20, 30, 40, 50, 60}`
+
+Target: `40`
+
+Binary Search checks the middle element and decides whether to search in the left half or the right half.
+
+## 2. Important Condition
+
+Binary Search requires a sorted array.
+
+Example of a sorted array:
+
+```java
+int[] arr = {10, 20, 30, 40, 50};
+```
+
+If the array is unsorted, standard Binary Search will not work correctly.
+
+## 3. Important Variables
+
+Binary Search uses three main variables:
+
+1. `s` → Starting index of the search range.
+2. `e` → Ending index of the search range.
+3. `mid` → Middle index of the search range.
+
+Example:
+
+```java
+int s = 0;
+int e = arr.length - 1;
+int mid = s + (e - s) / 2;
+```
+
+## 4. Why do we use arr.length - 1?
+
+Java arrays use 0-based indexing.
+
+Example:
+
+```text
+Array:  10  20  30  40  50
+Index:   0   1   2   3   4
+```
+
+The last valid index is `arr.length - 1`.
+
+Therefore:
+
+```java
+int e = arr.length - 1;
+```
+
+## 5. Middle Index Formula
+
+The formula to calculate the middle index is:
+
+```java
+int mid = s + (e - s) / 2;
+```
+
+Example:
+
+```text
+s = 0
+e = 6
+
+mid = 0 + (6 - 0) / 2
+mid = 3
+```
+
+The middle index is 3.
+
+This formula helps prevent integer overflow when the indices are very large.
+
+## 6. Three Main Conditions
+
+### Condition 1: Target Found
+
+```java
+if (arr[mid] == target) {
+    return mid;
+}
+```
+
+If the middle element is equal to the target, the element has been found.
+
+### Condition 2: Search in the Left Half
+
+```java
+else if (arr[mid] > target) {
+    e = mid - 1;
+}
+```
+
+If the middle element is greater than the target, search in the left half.
+
+### Condition 3: Search in the Right Half
+
+```java
+else {
+    s = mid + 1;
+}
+```
+
+If the middle element is smaller than the target, search in the right half.
+
+## 7. Why do we use while (s <= e)?
+
+```java
+while (s <= e)
+```
+
+This condition means that the search continues while the search range is valid.
+
+Even if only one element remains, the algorithm must check it.
+
+If we use `s < e`, we might skip checking the last remaining element.
+
+## 8. Complete Binary Search Code
+
+```java
+public class BinarySearch {
+    public static void main(String[] args) {
+
+        int[] arr = {10, 20, 30, 40, 50, 60};
+        int target = 40;
+
+        int s = 0;
+        int e = arr.length - 1;
+
+        while (s <= e) {
+
+            int mid = s + (e - s) / 2;
+
+            if (arr[mid] == target) {
+                System.out.println("Found at index " + mid);
+                return;
+            }
+            else if (arr[mid] > target) {
+                e = mid - 1;
+            }
+            else {
+                s = mid + 1;
+            }
+        }
+
+        System.out.println("Not Found");
+    }
+}
+```
+
+Output:
+
+```text
+Found at index 3
+```
+
+## 9. Time Complexity
+
+Best Case: O(1)
+
+Average Case: O(log n)
+
+Worst Case: O(log n)
+
+Space Complexity: O(1) for iterative Binary Search.
+
+## 10. Why is Binary Search O(log n)?
+
+Binary Search divides the array into two halves at every step.
+
+Example:
+
+```text
+1000 → 500 → 250 → 125 → 62 → 31 → ...
+```
+
+Since the search space is reduced by half each time, Binary Search takes O(log n) time.
+
+## 11. Binary Search vs Linear Search
+
+| Feature               | Linear Search     | Binary Search       |
+| --------------------- | ----------------- | ------------------- |
+| Sorted array required | No                | Yes                 |
+| Method                | Checks one by one | Divides into halves |
+| Worst-case time       | O(n)              | O(log n)            |
+| Space complexity      | O(1)              | O(1)                |
+
+## 12. Common Mistakes
+
+1. Applying Binary Search to an unsorted array.
+2. Using `arr.length` instead of `arr.length - 1`.
+3. Forgetting to update `s` or `e`.
+4. Using `s < e` when the last element also needs to be checked.
+5. Confusing `mid` (index) with `arr[mid]` (element).
+6. Forgetting `mid + 1` or `mid - 1`, which may cause an infinite loop.
+
+## 13. Important Binary Search Problems to Practice
+
+1. Basic Binary Search.
+2. Find the first and last occurrence of an element.
+3. Find the first and last position of a target in a sorted array.
+4. Search in a rotated sorted array.
+5. Find the peak element.
+6. Find the square root using Binary Search.
+7. Binary Search on the answer.
+
+## Key Point to Remember
+
+Binary Search works on a sorted array and repeatedly divides the search space into two halves.
+
+The three most important variables are:
+
+`s` = Start
+
+`e` = End
+
+`mid` = Middle
+
+The three main conditions are:
+
+1. `arr[mid] == target` → Element found.
+2. `arr[mid] > target` → Search left.
+3. `arr[mid] < target` → Search right.
