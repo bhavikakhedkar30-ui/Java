@@ -59,6 +59,7 @@
     "Application.ArithmeticOperationOnInt.executor": "Run",
     "Application.ArrayListStructure.executor": "Run",
     "Application.ArrayOfDifferentDataType.executor": "Run",
+    "Application.BasicOfBinary.executor": "Run",
     "Application.BasicsOfArray.executor": "Run",
     "Application.BinaryTriangle.executor": "Run",
     "Application.Bsort.executor": "Run",
