@@ -71,6 +71,7 @@
     "Application.ForEachloop.executor": "Run",
     "Application.HelloBhavika.executor": "Run",
     "Application.HollowRectangle.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
     "Application.KthElement.executor": "Run",
     "Application.LinearSearch.executor": "Run",
     "Application.Main.executor": "Run",
