@@ -9,6 +9,6 @@ public class MaxElement {
                  max = arr[i];
              }
          }
-        System.out.println(max);
+        System.out.println("Max Element: "+max);
     }
 }
