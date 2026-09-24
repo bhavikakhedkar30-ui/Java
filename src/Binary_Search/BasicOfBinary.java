@@ -13,7 +13,7 @@ public class BasicOfBinary {
             int mid = (low + high) / 2;
 
             if (arr[mid] == target) {
-                System.out.println("Target "+arr[mid]+"found at index: " + mid);
+                System.out.println("Target "+arr[mid]+" found at index: " + mid);
                 break;
             }
 

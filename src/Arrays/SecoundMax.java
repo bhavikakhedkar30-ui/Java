@@ -2,9 +2,9 @@ package Arrays;
 
 public class SecoundMax {
     static void main(String[] args) {
-        int[] arr = {42, 17, 89, 5, 63, 28, 94, 11, 76, 35};
+        int[] arr = {19,13,7,8,12};
         int max = arr[0];
-        int smax = arr[0];
+        int smax = Integer.MIN_VALUE;
         for (int i = 1; i<arr.length; i++){
             if (arr[i]>max){
                 max = arr[i];
