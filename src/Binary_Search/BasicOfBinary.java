@@ -6,7 +6,7 @@ public class BasicOfBinary {
         int target = 65;
 
         int low = 0;
-        int high = arr.length - 1;
+        int high = arr.length - 1; //last element
 
         while (low <= high) {
 
