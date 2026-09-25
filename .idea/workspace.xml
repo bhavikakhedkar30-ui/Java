@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6b7bf91d-cc3a-4219-9dbe-3fafa86f18d1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Binary_Search/DecreasingBS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Binary_Search/DecreasingBS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +135,7 @@
     "Application.firstOcuurenec.executor": "Run",
     "Application.firstPattern.executor": "Run",
     "Application.firstandLast.executor": "Run",
+    "Application.floorinsortedarray.executor": "Run",
     "Application.fourdigitNumber.executor": "Run",
     "Application.index.executor": "Run",
     "Application.optimizedBubble.executor": "Run",

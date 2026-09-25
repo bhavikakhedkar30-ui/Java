@@ -2,10 +2,10 @@ package Binary_Search;
 
 public class DecreasingBS {
     static void main(String[] args) {
-            int[] arr ={100,90,84,70,65,40};
+            int[] arr ={100,90,84,70,65,40,12,5,2};
             int low = 0;
             int high = arr.length-1;
-            int tar = 65;
+            int tar = 12;
 
 
            // int ans = 0;
