@@ -1,6 +1,4 @@
 package Binary_Search;
-
-
 public class arrangingcoin {
     static void main(String[] args) {
         int n = 9;
