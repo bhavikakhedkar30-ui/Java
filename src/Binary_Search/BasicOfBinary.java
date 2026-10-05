@@ -3,7 +3,7 @@ package Binary_Search;
 public class BasicOfBinary {
     static void main(String[] args) {
         int[] arr = {5, 10, 20, 25, 35, 45, 50, 65, 100};
-        int target = 65;
+        int k = 65;
 
         int low = 0;
         int high = arr.length - 1; //last element
@@ -12,16 +12,16 @@ public class BasicOfBinary {
 
             int mid = (low + high) / 2;
 
-            if (arr[mid] == target) {
+            if (arr[mid] == k) {
                 System.out.println("Target "+arr[mid]+" found at index: " + mid);
                 break;
             }
 
-            if (target > arr[mid]) {
+            if (k > arr[mid]) {
                 low = mid + 1;
             }
 
-            if (target < arr[mid]) {
+            if (k < arr[mid]) {
                 high = mid - 1;
             }
         }
