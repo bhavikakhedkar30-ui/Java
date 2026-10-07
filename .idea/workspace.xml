@@ -146,6 +146,7 @@
     "Application.searchinrotatedandsortedarray.executor": "Run",
     "Application.shallowCopydeepcopy.executor": "Run",
     "Application.singleamoungdouble.executor": "Run",
+    "Application.sum.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
