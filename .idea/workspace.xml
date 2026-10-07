@@ -143,6 +143,7 @@
     "Application.optimizedBubble.executor": "Run",
     "Application.peakmountain.executor": "Run",
     "Application.que.executor": "Run",
+    "Application.rowwithmaxelement.executor": "Run",
     "Application.searchinrotatedandsortedarray.executor": "Run",
     "Application.shallowCopydeepcopy.executor": "Run",
     "Application.singleamoungdouble.executor": "Run",
