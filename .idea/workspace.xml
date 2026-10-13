@@ -140,6 +140,7 @@
     "Application.fourdigitNumber.executor": "Run",
     "Application.index.executor": "Run",
     "Application.inputin2darray.executor": "Run",
+    "Application.minelementoutofmaxelementofeachrow.executor": "Run",
     "Application.optimizedBubble.executor": "Run",
     "Application.peakmountain.executor": "Run",
     "Application.que.executor": "Run",
