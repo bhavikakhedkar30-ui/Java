@@ -92,6 +92,7 @@
     "Application.PatternX.executor": "Run",
     "Application.PermutationAndCombination.executor": "Run",
     "Application.PrintNegativeNumberOnly.executor": "Run",
+    "Application.Printcolumnfirst.executor": "Run",
     "Application.Printingnumbers.executor": "Run",
     "Application.ProductOfArray.executor": "Run",
     "Application.ProfitLoss.executor": "Run",
