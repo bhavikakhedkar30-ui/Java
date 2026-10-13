@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b7bf91d-cc3a-4219-9dbe-3fafa86f18d1" name="Changes" comment="" />
+    <list default="true" id="6b7bf91d-cc3a-4219-9dbe-3fafa86f18d1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,6 +140,7 @@
     "Application.firstPattern.executor": "Run",
     "Application.firstandLast.executor": "Run",
     "Application.floorinsortedarray.executor": "Run",
+    "Application.foreachloop.executor": "Run",
     "Application.fourdigitNumber.executor": "Run",
     "Application.index.executor": "Run",
     "Application.inputin2darray.executor": "Run",
@@ -150,6 +153,7 @@
     "Application.searchinrotatedandsortedarray.executor": "Run",
     "Application.shallowCopydeepcopy.executor": "Run",
     "Application.singleamoungdouble.executor": "Run",
+    "Application.snake.executor": "Run",
     "Application.sum.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
