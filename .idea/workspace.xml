@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b7bf91d-cc3a-4219-9dbe-3fafa86f18d1" name="Changes" comment="" />
+    <list default="true" id="6b7bf91d-cc3a-4219-9dbe-3fafa86f18d1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Arrays_2D/Transpose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_2D/Transpose.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,6 +119,7 @@
     "Application.Syntax.executor": "Run",
     "Application.TSAOfCuboid.executor": "Run",
     "Application.Thirdparttern.executor": "Run",
+    "Application.Transpose.executor": "Run",
     "Application.Triangle1.executor": "Run",
     "Application.Triangle2.executor": "Run",
     "Application.Triangle3.executor": "Run",
