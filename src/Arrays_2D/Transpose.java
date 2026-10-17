@@ -4,7 +4,7 @@ public class Transpose {
     static void main(String[] args) {
         int [][] arr =  {{1,2,3},{4,5,6},{7,8,9}};
         for (int row = 0; row < arr.length; row++) {
-            for (int col = row + 1; col < arr.length; col++) {
+            for (int col = row ; col < arr.length; col++) {
                 int temp = arr[row][col];
                 arr[row][col] = arr[col][row];
                 arr[col][row] = temp;
