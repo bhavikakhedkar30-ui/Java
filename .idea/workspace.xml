@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b7bf91d-cc3a-4219-9dbe-3fafa86f18d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Arrays_2D/Transpose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays_2D/Transpose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +59,7 @@
     "Application.ArithmeticOperationOnInt.executor": "Run",
     "Application.ArrayListStructure.executor": "Run",
     "Application.ArrayOfDifferentDataType.executor": "Run",
+    "Application.Arraylist2D.executor": "Run",
     "Application.BasicOfBinary.executor": "Run",
     "Application.BasicsOfArray.executor": "Run",
     "Application.BinaryTriangle.executor": "Run",
@@ -168,7 +169,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">
