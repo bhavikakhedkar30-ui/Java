@@ -24,7 +24,12 @@ public class Arraylist2D {
         arr.add(b);
         arr.add(c);
 
-        System.out.println(arr);
-
+        //System.out.println(arr);
+        for (int i = 0; i < arr.size(); i++) {
+            for (int j = 0; j < arr.get(i).size(); j++) {
+                System.out.print(arr.get(i).get(j) + " ");
+            }
+            System.out.println();
+        }
     }
 }
