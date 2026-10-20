@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6b7bf91d-cc3a-4219-9dbe-3fafa86f18d1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_Printing/NumberTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_Printing/NumberTriangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,6 +154,7 @@
     "Application.reverserowcol.executor": "Run",
     "Application.rowwithmaxelement.executor": "Run",
     "Application.rowwithmaxsum.executor": "Run",
+    "Application.searchin2dmatrix.executor": "Run",
     "Application.searchinrotatedandsortedarray.executor": "Run",
     "Application.shallowCopydeepcopy.executor": "Run",
     "Application.singleamoungdouble.executor": "Run",
