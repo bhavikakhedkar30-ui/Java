@@ -1,18 +1,15 @@
 package ObjectOrientedProgramming;
 
 import java.util.Scanner;
-
 public class userdefineddatatype {
+
     public static  class student{
-
-        // khudka ek data type bna liya hai -> which is a class
-        // taking input
-
-
-
         String name;
         int rollno;
         double cgpa;
+        void  print(){
+            System.out.println(name+" , "+rollno+" , "+cgpa);
+        }
         
     }
     static void main(String[] args) {
@@ -48,6 +45,10 @@ public class userdefineddatatype {
 
         s2.rollno= 100;
       //  System.out.println("After changing "+s2.rollno);
+
+        s1.print();
+        s3.print();
+        s2.print();
 
 
 
