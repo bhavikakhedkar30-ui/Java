@@ -23,7 +23,8 @@ public class constructor {
             this.name = name;
         }
         void print(){
-            System.out.println(price+" "+name);
+            int price = 12;
+            System.out.println(this.price+" "+name);
         }
 
 
