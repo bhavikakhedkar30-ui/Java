@@ -79,6 +79,7 @@
     "Application.KthElement.executor": "Run",
     "Application.LinearSearch.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Marks.executor": "Run",
     "Application.MaxElement.executor": "Run",
     "Application.MaxOfThreeBuiltin.executor": "Run",
     "Application.MaxOffourbuiltIn.executor": "Run",
