@@ -11,14 +11,16 @@ public class constructor {
         int torque;//by default -> 0
         int price;//by default ->0.0
 
-        car(){ //default constructor
-
-        }
+        car(){} //default constructor
 
         car(int x , String y){
-            price = x;
+            this.price = x  ;
             name = y;
             //length = z;
+        }
+        car(String name , int price){
+           this.price = price ;
+            this.name = name;
         }
         void print(){
             System.out.println(price+" "+name);
@@ -33,7 +35,7 @@ public class constructor {
     static void main(String[] args) {
         car c1 = new car(124000,"SUV");
         c1.print();
-        car c2 = new car(500000,"sports");
+        car c2 = new car("alto",140000);
         c2.print();
 
         car c3 = new car();
