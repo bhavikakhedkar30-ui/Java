@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b7bf91d-cc3a-4219-9dbe-3fafa86f18d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOrientedProgramming/Inheritance.java" afterDir="false" />
-    </list>
+    <list default="true" id="6b7bf91d-cc3a-4219-9dbe-3fafa86f18d1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -97,6 +94,7 @@
     "Application.OddEven.executor": "Run",
     "Application.OddTriangle.executor": "Run",
     "Application.OutputInputArray.executor": "Run",
+    "Application.OwnArraylist.executor": "Run",
     "Application.Pascaltriangle.executor": "Run",
     "Application.PassingArrayToMethods.executor": "Run",
     "Application.PatternX.executor": "Run",
