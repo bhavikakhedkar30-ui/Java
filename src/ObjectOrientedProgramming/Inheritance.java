@@ -1,8 +1,24 @@
 package ObjectOrientedProgramming;
 
-public class Inheritance {
-    static void main(String[] args) {
-        int[] art = {1,2,34,45,56};
 
+class Animal {
+    void eat() {
+        System.out.println("Animal is eating");
     }
 }
+
+class Dog extends Animal {
+    void bark() {
+        System.out.println("Dog is barking");
+    }
+}
+
+class inheritance {
+    public static void main(String[] args) {
+        Dog d = new Dog();
+
+        d.eat();   // Inherited from Animal
+        d.bark();  // Defined in Dog
+    }
+}
+
