@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b7bf91d-cc3a-4219-9dbe-3fafa86f18d1" name="Changes" comment="" />
+    <list default="true" id="6b7bf91d-cc3a-4219-9dbe-3fafa86f18d1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +68,7 @@
     "Application.Bsort.executor": "Run",
     "Application.BubbleSort.executor": "Run",
     "Application.BuiltIn.executor": "Run",
+    "Application.BuiltInMethods.executor": "Run",
     "Application.Check.executor": "Run",
     "Application.CommonElement.executor": "Run",
     "Application.DecreasingBS.executor": "Run",
@@ -162,6 +165,7 @@
     "Application.optimizedBubble.executor": "Run",
     "Application.palindrome.executor": "Run",
     "Application.passingclassestomethods.executor": "Run",
+    "Application.passingstringtofunction.executor": "Run",
     "Application.peakmountain.executor": "Run",
     "Application.polymorphism.executor": "Run",
     "Application.privatekeyword.executor": "Run",
