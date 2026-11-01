@@ -1,9 +1,8 @@
 package Strings;
 import java.util.Scanner;
 public class palindrome {
-    static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        String s = sc.next();
+
+    static void palindrome(String s){
         int low = 0;
         int high = s.length() -1;
         Boolean flag = true;
@@ -19,6 +18,12 @@ public class palindrome {
         }
 
         System.out.println(flag);
+    }
+    static void main(String[] args) {
+       Scanner sc = new Scanner(System.in);
+       String s = sc.next();
+       palindrome(s);
+
     }
 
 }
