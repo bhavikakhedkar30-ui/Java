@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6b7bf91d-cc3a-4219-9dbe-3fafa86f18d1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectOrientedProgramming/OwnArraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOrientedProgramming/OwnArraylist.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +123,7 @@
     "Application.Sortzeroandone.executor": "Run",
     "Application.SquarePattern.executor": "Run",
     "Application.StarPlus.executor": "Run",
+    "Application.StringsBasics.executor": "Run",
     "Application.SumOfArray.executor": "Run",
     "Application.Swap.executor": "Run",
     "Application.Syntax.executor": "Run",
@@ -142,6 +142,7 @@
     "Application.WaveArray.executor": "Run",
     "Application.arrangingcoin.executor": "Run",
     "Application.bubble.executor": "Run",
+    "Application.characterarray.executor": "Run",
     "Application.complexnumberclass.executor": "Run",
     "Application.constructor.executor": "Run",
     "Application.countofnegandpos.executor": "Run",
@@ -161,6 +162,7 @@
     "Application.minelementoutofmaxelementofeachrow.executor": "Run",
     "Application.multilevel_inheritance.executor": "Run",
     "Application.optimizedBubble.executor": "Run",
+    "Application.palindrome.executor": "Run",
     "Application.passingclassestomethods.executor": "Run",
     "Application.peakmountain.executor": "Run",
     "Application.polymorphism.executor": "Run",
@@ -177,6 +179,7 @@
     "Application.snake2.executor": "Run",
     "Application.structre.executor": "Run",
     "Application.sum.executor": "Run",
+    "Application.totalnoofstrings.executor": "Run",
     "Application.userdefineddatatype.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
