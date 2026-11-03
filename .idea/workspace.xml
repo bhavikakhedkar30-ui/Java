@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6b7bf91d-cc3a-4219-9dbe-3fafa86f18d1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strings/substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/substring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,6 +142,7 @@
     "Application.VariablesBasics.executor": "Run",
     "Application.VolumeOfSphere.executor": "Run",
     "Application.WaveArray.executor": "Run",
+    "Application.allsubstring.executor": "Run",
     "Application.arrangingcoin.executor": "Run",
     "Application.bubble.executor": "Run",
     "Application.characterarray.executor": "Run",
@@ -164,6 +164,7 @@
     "Application.index.executor": "Run",
     "Application.inheritance.executor": "Run",
     "Application.inputin2darray.executor": "Run",
+    "Application.interingnew.executor": "Run",
     "Application.inttostring.executor": "Run",
     "Application.minelementoutofmaxelementofeachrow.executor": "Run",
     "Application.multilevel_inheritance.executor": "Run",
@@ -219,6 +220,17 @@
       <updated>1779981495087</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings/allsubstring.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
