@@ -169,6 +169,7 @@
     "Application.inputin2darray.executor": "Run",
     "Application.interingnew.executor": "Run",
     "Application.inttostring.executor": "Run",
+    "Application.meaning.executor": "Run",
     "Application.minelementoutofmaxelementofeachrow.executor": "Run",
     "Application.multilevel_inheritance.executor": "Run",
     "Application.optimizedBubble.executor": "Run",
