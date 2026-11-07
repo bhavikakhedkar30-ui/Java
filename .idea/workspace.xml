@@ -159,6 +159,7 @@
     "Application.demo.executor": "Run",
     "Application.doline.executor": "Run",
     "Application.doubleofElement.executor": "Run",
+    "Application.factorial.executor": "Run",
     "Application.firstOcuurenec.executor": "Run",
     "Application.firstPattern.executor": "Run",
     "Application.firstandLast.executor": "Run",
@@ -240,6 +241,11 @@
           <url>file://$PROJECT_DIR$/src/Recursion_1/homework1.java</url>
           <line>7</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion_1/factorial.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
