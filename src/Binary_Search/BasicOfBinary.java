@@ -3,7 +3,7 @@ package Binary_Search;
 public class BasicOfBinary {
     static void main(String[] args) {
         int[] arr = {5, 10, 20, 25, 35, 45, 50, 65, 100};
-        int k = 65;
+        int k = 55;
 
         int low = 0;
         int high = arr.length - 1; //last element

@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6b7bf91d-cc3a-4219-9dbe-3fafa86f18d1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Binary_Search/BasicOfBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Binary_Search/BasicOfBinary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +66,7 @@
     "Application.Arraylist2D.executor": "Run",
     "Application.BasicOfBinary.executor": "Run",
     "Application.BasicsOfArray.executor": "Run",
+    "Application.BinarySearchThroughRecursion.executor": "Run",
     "Application.BinaryTriangle.executor": "Run",
     "Application.Bsort.executor": "Run",
     "Application.BubbleSort.executor": "Run",
@@ -132,6 +134,7 @@
     "Application.StarPlus.executor": "Run",
     "Application.StringBuilders.executor": "Run",
     "Application.StringsBasics.executor": "Run",
+    "Application.StringsBasicsMore.executor": "Run",
     "Application.StringtoCharArray.executor": "Run",
     "Application.SumOfArray.executor": "Run",
     "Application.SumOfNaturalNumber.executor": "Run",
